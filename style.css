@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+}
+.picture{
+   transition: transform .2s;
+    border: 10px solid #AAAAAA;
+    height: 252px;
+    width: 252px;
+}
+.picture:hover{
+    transform: scale(0.9);
+}
